@@ -15,12 +15,20 @@ Repository structure is given below.
  ┃ ┗ 📜query on static data.cpp
 
  ┣ 📂graph
+
  ┃ ┣ 📜bfs.cpp
+
  ┃ ┗ 📜dfs.cpp
+
  ┣ 📂sorting
+
  ┃ ┣ 📜bubble sort.cpp
+
  ┃ ┣ 📜counting sort.cpp
+
  ┃ ┣ 📜insertion sort.cpp
+
  ┃ ┗ 📜selection sort.cpp
- ┗ 📜README.md
  
+ ┗ 📜README.md
+
