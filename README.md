@@ -2,9 +2,7 @@
 
 Commonly used data structure and algorithm for practice.
 
-
 Repository structure is given below.
-
 
 📦data-structure-and-algorithm-in-cpp
 
@@ -29,6 +27,6 @@ Repository structure is given below.
  ┃ ┣ 📜insertion sort.cpp
 
  ┃ ┗ 📜selection sort.cpp
- 
+
  ┗ 📜README.md
 
