@@ -1,6 +1,8 @@
-   //Task: An array is given with negative value.
-  //       We have to find out the maximum sum of sub-array.
- //Complexity: O(n)
+/**
+Task: An array is given including negative value.
+      We have to find out the maximum sum of sub-array.
+Complexity: O(n)
+**/
 
 #include <bits/stdc++.h>
 

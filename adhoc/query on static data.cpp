@@ -1,6 +1,8 @@
-   //Task: An array is given.
-  //       We have to find out the sum of given range inclusive.
- //Complexity: Usually O(1) when input is given on runtime. But here, it O(n)
+ /**
+Task: An array is given.
+      We have to find out the sum of given range inclusive.
+Complexity: O(1) for each query.
+**/
 
 #include <bits/stdc++.h>
 

@@ -1,7 +1,9 @@
-   //Task: An unsorted array is given.
-  //       We have to sort it using Selection Sort.
- //Complexity: O(n^2). In each iterate, it sorts the
-//             left most unsorted item.
+/**
+Task: An unsorted array is given.
+      We have to sort it using Selection Sort.
+Complexity: O(n^2). In each iterate, it sorts the
+            left most unsorted item.
+**/
 
 #include <bits/stdc++.h>
 
