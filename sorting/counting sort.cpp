@@ -1,8 +1,10 @@
 /**
-Task: An unsorted array is given.
-      We have to sort it using Counting Sort.
-Complexity: O(n+W), where W is the value of array's max item.
-            Good to use when dataset is big enough and W < 10^5.
+Task:
+    An unsorted array is given.
+    We have to sort it using Counting Sort.
+Complexity:
+    O(n+W), where W is the value of array's max item.
+    Good to use when dataset is big enough and W < 10^5.
 **/
 
 #include <bits/stdc++.h>

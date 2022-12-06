@@ -1,8 +1,10 @@
 /**
-Task: An unsorted array is given.
-      We have to sort it using Insertion Sort.
-Complexity: O(n^2). In each iterate, it sorts the
-            left most segment.
+Task:
+    An unsorted array is given.
+    We have to sort it using Insertion Sort.
+Complexity:
+    O(n^2). In each iterate, it sorts the
+    left most segment.
 **/
 
 #include <bits/stdc++.h>

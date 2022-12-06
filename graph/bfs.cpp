@@ -1,8 +1,10 @@
 /**
-Task: An unweighted graph is given. We have to calculate
-      shorted part from source node for each node.
-Complexity: O(V+E).
-            Here, V = vertex/Node and E = Edge
+Task:
+    An unweighted graph is given. We have to calculate
+    shorted part from source node for each node.
+Complexity:
+    O(V+E).
+    Here, V = vertex/Node and E = Edge
 **/
 
 #include <bits/stdc++.h>
